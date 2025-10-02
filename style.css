@@ -1,0 +1,9 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+#choices .list-group-item {
+  cursor: pointer;
+}
+#choices .list-group-item:hover {
+  background-color: #f8f9fa;
+}
